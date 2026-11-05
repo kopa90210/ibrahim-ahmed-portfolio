@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/Ibrahim_Ahmed_CV_FullStack_AI.pdf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "inline; filename=\"Ibrahim_Ahmed_CV_FullStack_AI.pdf\""
+        }
+      ]
+    }
+  ]
+}
